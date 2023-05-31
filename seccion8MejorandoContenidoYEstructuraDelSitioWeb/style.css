@@ -85,6 +85,11 @@ a {
   padding: 50px;
 }
 
+.greeting {
+  text-align: center;
+  display: flex;
+}
+
 .video-container {
   display: flex;
   flex-direction: column;
